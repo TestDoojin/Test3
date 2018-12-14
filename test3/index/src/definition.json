@@ -16,9 +16,6 @@
         "notEmpty" : true
       } ],
       "socialNetworks" : [ {
-        "name" : "facebook",
-        "uri" : "https://www.facebook.com/test"
-      }, {
         "name" : "twitter",
         "uri" : "https://twitter.com/testTwitter3"
       }, {
