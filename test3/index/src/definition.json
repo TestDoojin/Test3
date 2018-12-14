@@ -16,8 +16,23 @@
         "notEmpty" : true
       } ],
       "socialNetworks" : [ {
+        "name" : "facebook",
+        "uri" : "https://www.facebook.com/testFacebook"
+      }, {
+        "name" : "twitter",
+        "uri" : "https://twitter.com/testTwitter"
+      }, {
         "name" : "linkedin",
         "uri" : "https://www.linkedin.com/in/testLinkedIn"
+      }, {
+        "name" : "googlePlus",
+        "uri" : "https://plus.google.com/+testGooglePlus"
+      }, {
+        "name" : "instagram",
+        "uri" : "https://www.instagram.com/testInstagram"
+      }, {
+        "name" : "pinterest",
+        "uri" : "https://www.pinterest.com/testPinterest"
       } ]
     }
   },
