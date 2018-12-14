@@ -9,7 +9,12 @@
     "features" : {
       "twisterJavaEnabled" : true,
       "forceXL" : true,
-      "useInventoryAds" : "remote"
+      "useInventoryAds" : "remote",
+      "socialProfiles" : [ {
+        "name" : "linkedin",
+        "uri" : "https://www.linkedin.com/in/testLinkedIn",
+        "notEmpty" : true
+      } ]
     }
   },
   "configuration" : {
